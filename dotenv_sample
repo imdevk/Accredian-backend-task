@@ -1,0 +1,3 @@
+DATABASE_URL="mysql://username:password@localhost:port/refer_and_earn"
+EMAIL_USER="email@example.com"
+EMAIL_PASS="password"
